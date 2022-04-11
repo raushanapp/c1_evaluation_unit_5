@@ -2,9 +2,9 @@ import {useState} from "react";
 import './App.css';
 
 function App() {
-  const [ball,setBall] = useState(0)
-  const [score,setSco] = useState(0)
-  const [wicket,setW] = useState(0)
+  const [ball,setBall] = useState(50)
+  const [score,setSco] = useState(76)
+  const [wicket,setW] = useState(2)
 
   
      
